@@ -1,4 +1,4 @@
-License Plate Recognition Computer Vision Project
+## License Plate Recognition Computer Vision Project
 
 In today’s digital age, the demand for efficient and accurate automated systems continues to grow. One such application is License Plate Recognition (LPR), 
 
